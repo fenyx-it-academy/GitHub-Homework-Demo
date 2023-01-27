@@ -1,4 +1,3 @@
 ### Question 1:
-num1 = int(input())
-num2 = int(input())
-print (num1+num2)
+def sum_fun (num1, num2):
+    return num1 + num2
