@@ -19,3 +19,5 @@ eg.:
 > my_subt_func(5,3)
 > 2
 ```
+
+Fenyx![fenyx logo](square_logo.png)
